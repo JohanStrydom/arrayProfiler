@@ -21,7 +21,7 @@ If you wish to add a function and see how it interacts with the array, just add 
 
 ```
     {
-        name: 'Some text to discribe the function',
+        name: 'Some text to describe the function',
         callback: (arr) => {
             //Add function code here
         }
@@ -32,10 +32,10 @@ If you wish to add a function and see how it interacts with the array, just add 
 Expected output
 
 ```
-4. Some text to discribe the function
+5. Some text to describe the function
 -------------------------------------
 Array length: 100
-Array element requests: 0
-Array lenght requests: 0
+Array element request count: 0
+Array length request count: 0
 Duration: 0 sec
 ```
