@@ -12,7 +12,7 @@ To run the profiler, run the following command
 ```
 node profileArray.js [n]
 ```
-*n defaults to 100 id not set*
+*n defaults to 100 if not set*
 
 
 
