@@ -4,7 +4,7 @@ let lengthCalls, elementCalls;
 const array = [];
 
 //Enter array lenght (or as argument)
-const n = process.argv[2] ? process.argv[2] : 10000;
+const n = process.argv[2] ? process.argv[2] : 100;
 
 //Build up random array with duplicates
 for (let i = 0; i < n; i++) {
