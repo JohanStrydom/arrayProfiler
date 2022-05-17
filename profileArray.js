@@ -60,8 +60,6 @@ const callbacks = [
                     duplicates.push(e);
                 }
             });
-
-
             console.log(`Duplicates: ${[...new Set(duplicates)]}`);
         }
     },
